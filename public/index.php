@@ -1,0 +1,1 @@
+<?php require '../src/Boot.php';
